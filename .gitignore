@@ -1,0 +1,13 @@
+data/
+logs/
+*.pth
+*.pt
+*.ckpt
+*.zip
+*.tar
+*.gz
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+Thumbs.db
